@@ -77,14 +77,15 @@ This system replaces manual processes, reducing errors and improving efficiency 
 ## Installation and Setup
 
 1. Clone the repository:
+   https://github.com/Yokeshwar-j/Inventory-Management-System
 
-2. Open the project in NetBeans  
+3. Open the project in NetBeans  
 
-3. Configure MySQL database:
+4. Configure MySQL database:
    - Create the required database  
    - Import tables (if SQL file is provided)  
 
-4. Update database connection in:
+5. Update database connection in:
    ```java
    package dao;
     import java.sql.Connection;
@@ -107,7 +108,7 @@ This system replaces manual processes, reducing errors and improving efficiency 
         }
     }
 
-5. Run the project  
+6. Run the project  
 
 ---
 ## Screenshots
