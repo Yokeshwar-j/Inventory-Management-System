@@ -110,6 +110,19 @@ This system replaces manual processes, reducing errors and improving efficiency 
 5. Run the project  
 
 ---
+## Screenshots
+
+### Admin Dashboard
+<img width="1378" height="775" alt="Picture1" src="https://github.com/user-attachments/assets/60294a67-0d97-4164-b594-60590111052b" />
+
+### Pharmacist Dashboard
+<img width="601" height="341" alt="Picture6" src="https://github.com/user-attachments/assets/d853b995-9d23-4aef-bde2-fe8adfc488d2" />
+
+### Add Medicine
+<img width="601" height="304" alt="Picture7" src="https://github.com/user-attachments/assets/d0c664a3-d57e-4285-ac97-0628c42bbfea" />
+
+### Bill
+<img width="410" height="389" alt="Picture9" src="https://github.com/user-attachments/assets/6c798c35-0391-469e-a25b-be2d06c66778" />
 
 
 ## Contributors
@@ -125,5 +138,7 @@ This system replaces manual processes, reducing errors and improving efficiency 
 - Web-based version  
 - Mobile application support  
 - Cloud database integration  
+- Low stock notification system  
+- Enhanced authentication and security    
 - Low stock notification system  
 - Enhanced authentication and security  
